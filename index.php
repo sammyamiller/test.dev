@@ -8,5 +8,13 @@
 
 
 
+
+
+
+
+<ul>
+	<li>Something different</li>
+</ul>	
+
 <?php include('include/footer.php');?>
 
